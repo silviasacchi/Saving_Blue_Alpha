@@ -1667,3 +1667,208 @@ Recommended: 516.25
 [2023.04.14-07.19.16:647][710]LogFbx: Parsing AnimStack paris_metarig|paris_metarigAction.001
 [2023.04.14-07.19.16:647][710]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Paris/Paris_animation_001_paris_metarig_paris_metarigAction.Paris_animation_001_paris_metarig_paris_metarigAction
 [2023.04.14-07.19.16:807][710]LogFbx: Parsing AnimStack paris_metarig|paris_metarigAction.002
+[2023.04.14-07.53.58:601][468]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/University/3D Animaiton and Game Engine Pipeline/CA5/Models/Paris_animation_002.fbx)
+[2023.04.14-07.53.58:607][468]LogFbx: Loading FBX Scene from ../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/University/3D Animaiton and Game Engine Pipeline/CA5/Models/Paris_animation_002.fbx
+[2023.04.14-07.53.58:624][468]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.14-07.54.41:810][468]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(0) paris_metarig
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(1) spine_004
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(2) spine_003
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(3) spine_002
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(4) spine_001
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(5) spine
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(6) spine_005
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(7) spine_006
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(8) spine_007
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(9) spine_008
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(10) spine_009
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(11) spine_010
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(12) spine_011
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(13) shoulder_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(14) front_thigh_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(15) front_thigh_L_001
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(16) front_shin_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(17) front_shin_L_001
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(18) front_foot_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(19) front_toe_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(20) shoulder_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(21) front_thigh_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(22) front_thigh_R_002
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(23) front_thigh_R_001
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(24) front_thigh_R_003
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(25) front_shin_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(26) front_shin_R_001
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(27) front_foot_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(28) front_toe_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(29) breast_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(30) breast_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(31) pelvis_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(32) pelvis_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(33) thigh_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(34) thigh_L_001
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(35) thigh_L_002
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(36) shin_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(37) foot_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(38) toe_L
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(39) thigh_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(40) thigh_R_001
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(41) thigh_R_002
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(42) shin_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(43) foot_R
+[2023.04.14-07.54.41:826][468]LogFbx: SortedLinks :(44) toe_R
+[2023.04.14-07.54.41:827][468]LogFbx: Parsing AnimStack paris_metarig|paris_metarigAction
+[2023.04.14-07.54.42:219][468]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Paris/Paris_animation_002.Paris_animation_002
+[2023.04.14-07.59.30:745][ 72]LogDerivedDataCache: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.070 and deleted 0 files with total size 0 MiB. Scanned 2321 files in 2307 folders with total size 53 MiB.
+[2023.04.14-08.07.35:554][829]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/University/3D Animaiton and Game Engine Pipeline/CA5/Models/Paris_animation_003.fbx)
+[2023.04.14-08.07.35:563][829]LogFbx: Loading FBX Scene from ../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/University/3D Animaiton and Game Engine Pipeline/CA5/Models/Paris_animation_003.fbx
+[2023.04.14-08.07.35:603][829]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.14-08.07.38:310][829]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(0) paris_metarig
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(1) spine_004
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(2) spine_003
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(3) spine_002
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(4) spine_001
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(5) spine
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(6) spine_005
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(7) spine_006
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(8) spine_007
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(9) spine_008
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(10) spine_009
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(11) spine_010
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(12) spine_011
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(13) shoulder_L
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(14) front_thigh_L
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(15) front_thigh_L_001
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(16) front_shin_L
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(17) front_shin_L_001
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(18) front_foot_L
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(19) front_toe_L
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(20) shoulder_R
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(21) front_thigh_R
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(22) front_thigh_R_002
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(23) front_thigh_R_001
+[2023.04.14-08.07.38:330][829]LogFbx: SortedLinks :(24) front_thigh_R_003
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(25) front_shin_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(26) front_shin_R_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(27) front_foot_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(28) front_toe_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(29) breast_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(30) breast_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(31) pelvis_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(32) pelvis_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(33) thigh_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(34) thigh_L_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(35) thigh_L_002
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(36) shin_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(37) foot_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(38) toe_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(39) thigh_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(40) thigh_R_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(41) thigh_R_002
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(42) shin_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(43) foot_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(44) toe_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(0) paris_metarig
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(1) spine_004
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(2) spine_003
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(3) spine_002
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(4) spine_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(5) spine
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(6) spine_005
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(7) spine_006
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(8) spine_007
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(9) spine_008
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(10) spine_009
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(11) spine_010
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(12) spine_011
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(13) shoulder_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(14) front_thigh_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(15) front_thigh_L_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(16) front_shin_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(17) front_shin_L_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(18) front_foot_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(19) front_toe_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(20) shoulder_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(21) front_thigh_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(22) front_thigh_R_002
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(23) front_thigh_R_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(24) front_thigh_R_003
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(25) front_shin_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(26) front_shin_R_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(27) front_foot_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(28) front_toe_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(29) breast_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(30) breast_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(31) pelvis_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(32) pelvis_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(33) thigh_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(34) thigh_L_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(35) thigh_L_002
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(36) shin_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(37) foot_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(38) toe_L
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(39) thigh_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(40) thigh_R_001
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(41) thigh_R_002
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(42) shin_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(43) foot_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(44) toe_R
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(0) paris_metarig
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(1) spine_004
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(2) spine_003
+[2023.04.14-08.07.38:331][829]LogFbx: SortedLinks :(3) spine_002
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(4) spine_001
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(5) spine
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(6) spine_005
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(7) spine_006
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(8) spine_007
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(9) spine_008
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(10) spine_009
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(11) spine_010
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(12) spine_011
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(13) shoulder_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(14) front_thigh_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(15) front_thigh_L_001
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(16) front_shin_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(17) front_shin_L_001
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(18) front_foot_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(19) front_toe_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(20) shoulder_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(21) front_thigh_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(22) front_thigh_R_002
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(23) front_thigh_R_001
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(24) front_thigh_R_003
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(25) front_shin_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(26) front_shin_R_001
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(27) front_foot_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(28) front_toe_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(29) breast_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(30) breast_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(31) pelvis_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(32) pelvis_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(33) thigh_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(34) thigh_L_001
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(35) thigh_L_002
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(36) shin_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(37) foot_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(38) toe_L
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(39) thigh_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(40) thigh_R_001
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(41) thigh_R_002
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(42) shin_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(43) foot_R
+[2023.04.14-08.07.38:332][829]LogFbx: SortedLinks :(44) toe_R
+[2023.04.14-08.07.38:333][829]LogFbx: Parsing AnimStack paris_metarig|paris_metarigAction
+[2023.04.14-08.07.38:649][829]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Paris/Paris_animation_003_paris_metarig_paris_metarigAction.Paris_animation_003_paris_metarig_paris_metarigAction
+[2023.04.14-08.07.38:649][829]LogFbx: Parsing AnimStack paris_metarig|paris_metarigAction.002
+[2023.04.14-08.07.38:827][829]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Paris/Paris_animation_003_paris_metarig_paris_metarigAction_002.Paris_animation_003_paris_metarig_paris_metarigAction_002
+[2023.04.14-08.07.38:827][829]LogFbx: Parsing AnimStack paris_metarig|PlaneAction
+[2023.04.14-08.08.05:802][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-08.08.05:927][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-08.08.05:941][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.04.14-08.08.06:708][151]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2023.04.14-08.08.06:709][151]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_1480F77314F8876091695D38F869B7B2D.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/Levels/Level_1.umap'
+[2023.04.14-08.08.06:725][151]LogFileHelpers: Saving map 'Level_1' took 0.799
+[2023.04.14-08.08.06:733][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 931 ms (total: 1.39 sec)
+[2023.04.14-08.08.06:737][151]AssetCheck: New page: Asset Save: Level_1
+[2023.04.14-08.08.06:737][151]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_1.Level_1
