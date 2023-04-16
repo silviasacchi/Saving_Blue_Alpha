@@ -1526,3 +1526,969 @@ Recommended: 516.25
 [2023.04.16-10.14.32:187][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1.78 sec)
 [2023.04.16-10.14.32:196][854]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.04.16-10.14.32:196][854]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.16-10.18.16:091][943]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.16-10.20.23:831][322]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.16-10.20.37:182][358]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.16-10.23.06:411][802]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.16-10.23.20:776][843]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.16-10.23.32:140][877]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.16-10.23.46:244][918]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.16-10.28.11:514][891]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-10.28.11:514][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-10.30.05:806][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves
+[2023.04.16-10.30.05:807][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-10.30.09:210][622]LogSlate: Window 'moving_leaves' being destroyed
+[2023.04.16-10.31.31:180][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:180][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:180][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:180][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:181][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:181][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:181][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:181][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:182][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:182][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:182][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:182][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:182][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:182][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:182][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:182][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:183][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:183][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:183][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:183][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:184][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:184][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:184][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:184][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:185][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:185][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:185][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:185][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:185][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:185][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:185][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:185][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:186][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:186][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:186][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:186][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:186][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:186][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:187][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:187][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:187][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:187][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:187][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:187][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:188][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_10 via property leaf_movement, but TRASH_InterpToMovementComponent_10 is not valid (pending kill or garbage)
+	moving_leaves_C /Engine/Transient.World_0:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:188][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Engine/Transient.World_0:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:188][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_10 via property leaf_movement, but TRASH_InterpToMovementComponent_10 is not valid (pending kill or garbage)
+	moving_leaves_C /Engine/Transient.World_0:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:188][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Engine/Transient.World_0:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.31:189][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_10 via property leaf_movement, but TRASH_InterpToMovementComponent_10 is not valid (pending kill or garbage)
+	moving_leaves_C /Engine/Transient.World_7:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.31:189][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Engine/Transient.World_7:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.31:189][757]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_10 via property leaf_movement, but TRASH_InterpToMovementComponent_10 is not valid (pending kill or garbage)
+	moving_leaves_C /Engine/Transient.World_7:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.31:189][757]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Engine/Transient.World_7:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:610][711]LogEditorTransaction: Undo Add Component Nodes
+[2023.04.16-10.31.47:616][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:616][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:616][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:616][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:616][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:616][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:616][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:616][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:617][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:617][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:617][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:617][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:618][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:618][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:618][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:618][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:618][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:618][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:618][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:618][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:619][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:619][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:619][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:619][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:620][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:620][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:620][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:620][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:620][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:620][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:620][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:620][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:621][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:621][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:621][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:621][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:621][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:622][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:622][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:622][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:622][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:622][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:622][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:622][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:623][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_10 via property leaf_movement, but TRASH_InterpToMovementComponent_10 is not valid (pending kill or garbage)
+	moving_leaves_C /Engine/Transient.World_0:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:623][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Engine/Transient.World_0:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:623][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_10 via property leaf_movement, but TRASH_InterpToMovementComponent_10 is not valid (pending kill or garbage)
+	moving_leaves_C /Engine/Transient.World_0:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:623][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Engine/Transient.World_0:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.47:623][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_10 via property leaf_movement, but TRASH_InterpToMovementComponent_10 is not valid (pending kill or garbage)
+	moving_leaves_C /Engine/Transient.World_7:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.47:623][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Engine/Transient.World_7:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.47:624][711]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_10 via property leaf_movement, but TRASH_InterpToMovementComponent_10 is not valid (pending kill or garbage)
+	moving_leaves_C /Engine/Transient.World_7:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.47:624][711]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Engine/Transient.World_7:PersistentLevel.moving_leaves_C_0
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:896][826]LogEditorTransaction: Undo Delete current selection
+[2023.04.16-10.31.49:900][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:900][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:900][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:900][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:901][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:901][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:901][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:901][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_10
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:901][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:901][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:901][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:901][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_11
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:902][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:902][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:902][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:902][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_14
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:902][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:902][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:902][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:902][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_16
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:903][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:903][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:903][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:903][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_20
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:903][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:903][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:903][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:903][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_22
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_3
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_5
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:904][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_7
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.49:905][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00A3
+[2023.04.16-10.31.49:905][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00B8
+[2023.04.16-10.31.49:905][826]LogScript: Warning: Attempted to access TRASH_InterpToMovementComponent_14 via property leaf_movement, but TRASH_InterpToMovementComponent_14 is not valid (pending kill or garbage)
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:00F3
+[2023.04.16-10.31.49:905][826]LogScript: Warning: Attempted to assign to None
+	moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_9
+	Function /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C:UserConstructionScript:0108
+[2023.04.16-10.31.53:102][ 17]LogEditorTransaction: Undo Remove Components
+[2023.04.16-10.31.54:330][ 67]BlueprintLog: New page: Compile moving_leaves
+[2023.04.16-10.31.54:332][ 67]LogBlueprint: Warning: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] Could not find a variable named "Loc2" in 'moving_leaves_C'.
+Make sure 'moving_leaves_C' has been compiled for  Get Loc2
+[2023.04.16-10.31.54:332][ 67]LogBlueprint: Warning: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] Could not find a variable named "DelayTime" in 'moving_leaves_C'.
+Make sure 'moving_leaves_C' has been compiled for  Get DelayTime
+[2023.04.16-10.31.54:332][ 67]LogBlueprint: Warning: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] Could not find a variable named "Cube" in 'moving_leaves_C'.
+Make sure 'moving_leaves_C' has been compiled for  Get Cube
+[2023.04.16-10.31.54:332][ 67]LogBlueprint: Warning: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] Could not find a variable named "Loc1" in 'moving_leaves_C'.
+Make sure 'moving_leaves_C' has been compiled for  Get Loc1
+[2023.04.16-10.31.54:343][ 67]LogBlueprint: Error: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] The property associated with  Loc 2  could not be found in '/Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C'
+[2023.04.16-10.31.54:343][ 67]LogBlueprint: Error: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] The property associated with  Loc 1  could not be found in '/Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C'
+[2023.04.16-10.31.54:343][ 67]LogBlueprint: Error: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] The property associated with  Cube  could not be found in '/Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C'
+[2023.04.16-10.31.54:343][ 67]LogBlueprint: Error: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] The property associated with  Delay Time  could not be found in '/Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C'
+[2023.04.16-10.31.54:446][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.16-10.32.06:530][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-10.32.06:626][787]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/moving_leaves
+[2023.04.16-10.32.06:627][787]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves6306D4D24598F626B8FDE8AC884E0020.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/moving_leaves.uasset'
+[2023.04.16-10.32.06:632][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.88 sec)
+[2023.04.16-10.32.06:638][787]AssetCheck: New page: Asset Save: moving_leaves
+[2023.04.16-10.32.06:638][787]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves
+[2023.04.16-10.32.33:221][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.04.16-10.32.33:741][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto1
+[2023.04.16-10.32.33:742][  5]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_1_Auto1F53A811749FC5BECCEB28496A4263E4C.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/Levels/Level_1_Auto1.umap'
+[2023.04.16-10.32.33:756][  5]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.589
+[2023.04.16-10.32.33:756][  5]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.589
+[2023.04.16-10.59.34:197][107]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.16-10.59.34:243][107]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.16-10.59.34:260][108]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.16-11.00.02:009][377]LogContentBrowser: Attempting asset rename: NewFolder -> SceneElements
+[2023.04.16-11.00.02:010][377]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.16-11.00.10:664][647]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/University/3D Animaiton and Game Engine Pipeline/CA5/Models/lotus_leaves_001.fbx)
+[2023.04.16-11.00.10:687][647]LogFbx: Loading FBX Scene from ../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/University/3D Animaiton and Game Engine Pipeline/CA5/Models/lotus_leaves_001.fbx
+[2023.04.16-11.00.10:695][647]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.16-11.00.15:675][647]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.16-11.00.16:191][647]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.04.16-11.00.16:191][647]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.16-11.00.16:252][647]LogTexture: Display: Building textures: /Game/SceneElements/lotus_leaf_002.lotus_leaf_002 (TFO_AutoDXT, 4000x5500 x1x1x1) (Required Memory Estimate: 1510.682601 MB), EncodeSpeed: Fast
+[2023.04.16-11.00.17:544][647]LogFbx: Display: Triangulating static mesh Lotus_Leaf
+[2023.04.16-11.00.17:574][647]LogStaticMesh: Display: Building static mesh lotus_leaves_001...
+[2023.04.16-11.00.17:581][647]LogStaticMesh: Built static mesh [0.01s] /Game/SceneElements/lotus_leaves_001.lotus_leaves_001
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: ================================================
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Total job queries 117, among them cache hits 10 (8.55%)
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Tracking 104 distinct input hashes that result in 80 distinct outputs (76.92%)
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: RAM used: 0.88 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 0.92 s
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Job life time (pending + execution): average 0.97 s, max 0.97
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.97 s
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Total thread time: 0.45 s
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Total thread preprocess time: 0.04 s
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Percentage time preprocessing: 8.96%
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Effective parallelization: 0.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2023.04.16-11.00.20:609][844]LogShaderCompilers: Display: ================================================
+[2023.04.16-11.00.23:817][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.16-11.00.23:822][ 24]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.053
+[2023.04.16-11.00.23:823][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SceneElements/lotus_leaves_001] ([1] browsable assets)...
+[2023.04.16-11.00.23:832][ 24]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SceneElements/lotus_leaves_001.lotus_leaves_001]
+[2023.04.16-11.00.23:832][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneElements/lotus_leaves_001]
+[2023.04.16-11.00.23:835][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SceneElements/lotus_leaves_001_Auto2
+[2023.04.16-11.00.23:835][ 24]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/lotus_leaves_001_Auto26C1DAC444F34E29CB5408AA65B03AA6F.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/SceneElements/lotus_leaves_001_Auto2.uasset'
+[2023.04.16-11.00.23:836][ 24]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.04.16-11.00.57:189][591]LogSlate: Took 0.000610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.16-11.02.13:388][515]LogSlate: Took 0.000934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.16-11.02.35:448][166]LogSlate: Window 'Delete Variable' being destroyed
+[2023.04.16-11.02.39:889][497]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-11.02.39:889][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.03.02:091][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.04.16-11.03.08:046][419]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.16-11.03.08:146][419]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves
+	Asset Type: Blueprint
+[2023.04.16-11.03.09:110][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.16-11.03.09:196][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.16-11.03.09:225][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.16-11.03.09:258][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.16-11.03.16:511][907]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-11.03.16:511][907]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-11.03.16:511][907]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-11.03.17:941][907]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.16-11.03.17:971][907]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.16-11.03.17:978][907]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.16-11.03.17:991][908]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.16-11.03.26:991][626]LogContentBrowser: Attempting asset rename: NewBlueprint -> moving_leaves
+[2023.04.16-11.03.27:003][626]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.16-11.03.28:097][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves
+[2023.04.16-11.03.28:098][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-11.03.28:666][702]LogViewport: Scene viewport resized to 1053x686, mode Windowed.
+[2023.04.16-11.03.36:770][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.16-11.03.38:989][444]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.16-11.03.39:090][444]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-11.03.39:090][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.03.39:121][444]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves
+	Asset Type: Blueprint
+[2023.04.16-11.03.39:765][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.16-11.03.39:818][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.16-11.03.39:859][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.16-11.03.43:475][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-11.03.43:672][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.16-11.03.43:712][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.16-11.03.44:623][694]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2023.04.16-11.03.44:624][694]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_1007EF06E48D2998FB686CFBDA8CD6A4E.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/Levels/Level_1.umap'
+[2023.04.16-11.03.44:650][694]LogFileHelpers: Saving map 'Level_1' took 0.980
+[2023.04.16-11.03.44:662][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.18 sec (total: 3.07 sec)
+[2023.04.16-11.03.44:681][694]AssetCheck: New page: Asset Save: Level_1
+[2023.04.16-11.03.44:681][694]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_1.Level_1
+[2023.04.16-11.06.09:210][384]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-11.06.09:210][384]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-11.06.09:210][384]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-11.06.10:217][384]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.16-11.06.10:228][384]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.16-11.06.10:237][384]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.16-11.06.10:253][385]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.16-11.06.21:077][202]LogContentBrowser: Attempting asset rename: NewBlueprint -> moving_leaves
+[2023.04.16-11.06.21:084][202]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.16-11.06.25:947][555]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves
+[2023.04.16-11.06.25:947][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-11.06.26:377][555]LogViewport: Scene viewport resized to 1053x686, mode Windowed.
+[2023.04.16-11.06.35:904][ 33]LogShaderCompilers: Display: ================================================
+[2023.04.16-11.06.35:904][ 33]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.16-11.06.35:904][ 33]LogShaderCompilers: Display: Total job queries 121, among them cache hits 10 (8.26%)
+[2023.04.16-11.06.35:904][ 33]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 82 distinct outputs (75.93%)
+[2023.04.16-11.06.35:904][ 33]LogShaderCompilers: Display: RAM used: 0.91 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.04.16-11.06.35:904][ 33]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.16-11.06.35:904][ 33]LogShaderCompilers: Display: Shaders Compiled: 5
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Jobs assigned 8, completed 5 (62.50%)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Average time worker was idle: 373.82 s
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 1.31 s
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 1.38
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.66 s
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Average processing rate: 1.88 jobs/sec
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Total thread time: 3.54 s
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Total thread preprocess time: 0.30 s
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Percentage time preprocessing: 8.54%
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Effective parallelization: 1.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.64 sec, max 0.82 sec, min 0.45 sec)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 36.02% of total time (compiled    2 times, average 0.64 sec, max 0.82 sec, min 0.45 sec)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.83% of total time (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.33% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.83% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.04.16-11.06.35:905][ 33]LogShaderCompilers: Display: ================================================
+[2023.04.16-11.08.36:901][443]BlueprintLog: New page: Compile moving_leaves
+[2023.04.16-11.08.37:014][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.04.16-11.08.48:308][207]BlueprintLog: New page: Compile moving_leaves
+[2023.04.16-11.08.48:395][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.16-11.08.56:069][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-11.08.56:168][824]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/moving_leaves
+[2023.04.16-11.08.56:168][824]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leavesB837355C49100D51618098BCFA014531.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/moving_leaves.uasset'
+[2023.04.16-11.08.56:181][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 3.18 sec)
+[2023.04.16-11.08.56:190][824]AssetCheck: New page: Asset Save: moving_leaves
+[2023.04.16-11.08.56:190][824]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves
+[2023.04.16-11.09.05:318][420]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C
+[2023.04.16-11.09.05:318][420]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C
+[2023.04.16-11.09.05:321][420]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves as actor: moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_0
+[2023.04.16-11.09.05:322][420]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves as actor: moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_0
+[2023.04.16-11.09.05:335][421]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.04.16-11.09.06:303][479]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C
+[2023.04.16-11.09.06:303][479]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C
+[2023.04.16-11.09.06:306][479]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves as actor: moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+[2023.04.16-11.09.06:308][479]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves as actor: moving_leaves_C /Game/Levels/Level_1.Level_1:PersistentLevel.moving_leaves_C_1
+[2023.04.16-11.09.13:942][ 24]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-11.09.13:968][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-11.09.13:968][ 24]PIE: New page: PIE session: Level_1 (16 Apr 2023, 13:09:13)
+[2023.04.16-11.09.13:989][ 24]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.09.14:192][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.203702s)
+[2023.04.16-11.09.14:193][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.203765s)
+[2023.04.16-11.09.14:193][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-11.09.14:193][ 24]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-11.09.14:193][ 24]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2023.04.16-11.09.14:238][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.16-11.09.14:242][ 24]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.16-11.09.14:242][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-11.09.14:242][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-11.09.14:242][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-11.09.14:242][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-11.09.14:242][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-11.09.14:242][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-11.09.14:242][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-11.09.14:242][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-11.09.14:243][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-11.09.14:243][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-11.09.14:243][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-11.09.14:246][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-11.09.14:441][ 24]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-11.09.14:441][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-11.09.14:441][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-11.09.14:441][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-11.09.14:442][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.16-11.09.14:442][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.16-11.09.14:444][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.16-11.09.14:444][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.16-11.09.14:444][ 24]LogInit: FAudioDevice initialized.
+[2023.04.16-11.09.14:444][ 24]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_1'.
+[2023.04.16-11.09.14:449][ 24]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-11.09.14:474][ 24]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.04.16-12.09.14
+[2023.04.16-11.09.14:474][ 24]LogWorld: Bringing up level for play took: 0.024852
+[2023.04.16-11.09.14:477][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.04.16-11.09.14:482][ 24]PIE: Server logged in
+[2023.04.16-11.09.14:483][ 24]PIE: Play in editor total start time 0.528 seconds.
+[2023.04.16-11.09.18:219][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.09.18:219][168]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.09.18:220][168]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-11.09.18:228][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.09.18:234][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-11.09.18:240][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.09.18:291][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-11.09.18:292][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.16-11.09.18:294][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.16-11.09.18:315][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.09.18:323][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.16-11.09.18:352][169]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.04.16-11.09.19:478][238]LogViewport: Scene viewport resized to 1053x685, mode Windowed.
+[2023.04.16-11.09.53:566][594]BlueprintLog: New page: Compile moving_leaves
+[2023.04.16-11.09.53:568][594]LogBlueprint: Warning: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] Could not find a variable named "Cube" in 'moving_leaves_C'.
+Make sure 'moving_leaves_C' has been compiled for  Get Cube
+[2023.04.16-11.09.53:568][594]LogBlueprint: Error: [AssetLog] C:\GitProjects\Saving_Blue_Alpha\Saving_Blue_Alpha\Content\ThirdPerson\Blueprints\moving_leaves.uasset: [Compiler] The property associated with  Cube  could not be found in '/Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves_C'
+[2023.04.16-11.09.53:631][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.16-11.10.00:203][351]LogDerivedDataCache: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.145 and deleted 0 files with total size 0 MiB. Scanned 5407 files in 5344 folders with total size 1311 MiB.
+[2023.04.16-11.10.32:441][987]BlueprintLog: New page: Compile moving_leaves
+[2023.04.16-11.10.32:521][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.16-11.10.38:543][350]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-11.10.38:557][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-11.10.38:557][350]PIE: New page: PIE session: Level_1 (16 Apr 2023, 13:10:38)
+[2023.04.16-11.10.38:558][350]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.10.38:797][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.239434s)
+[2023.04.16-11.10.38:797][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.239507s)
+[2023.04.16-11.10.38:797][350]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-11.10.38:797][350]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-11.10.38:798][350]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2023.04.16-11.10.38:854][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.16-11.10.38:859][350]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.16-11.10.38:859][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-11.10.38:859][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-11.10.38:859][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-11.10.38:859][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-11.10.38:859][350]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-11.10.38:859][350]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-11.10.38:859][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-11.10.38:859][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-11.10.38:860][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-11.10.38:860][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-11.10.38:860][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-11.10.38:863][350]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-11.10.39:123][350]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-11.10.39:123][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-11.10.39:124][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-11.10.39:124][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-11.10.39:124][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.16-11.10.39:124][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.04.16-11.10.39:127][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.16-11.10.39:127][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.16-11.10.39:127][350]LogInit: FAudioDevice initialized.
+[2023.04.16-11.10.39:127][350]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_1'.
+[2023.04.16-11.10.39:131][350]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-11.10.39:163][350]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.04.16-12.10.39
+[2023.04.16-11.10.39:163][350]LogWorld: Bringing up level for play took: 0.031471
+[2023.04.16-11.10.39:167][350]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.04.16-11.10.39:183][350]PIE: Server logged in
+[2023.04.16-11.10.39:184][350]PIE: Play in editor total start time 0.627 seconds.
+[2023.04.16-11.10.50:829][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.10.50:829][884]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.10.50:829][884]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-11.10.50:844][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.10.50:861][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-11.10.50:869][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.10.50:978][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.10.50:979][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.16-11.10.50:986][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.16-11.10.51:030][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.04.16-11.10.51:132][885]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.16-11.10.57:908][160]Cmd: TRANSACTION UNDO
+[2023.04.16-11.10.57:909][160]LogEditorTransaction: Undo Scale Elements
+[2023.04.16-11.11.30:229][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-11.11.30:247][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-11.11.30:247][744]PIE: New page: PIE session: Level_1 (16 Apr 2023, 13:11:30)
+[2023.04.16-11.11.30:247][744]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.11.30:444][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197000s)
+[2023.04.16-11.11.30:444][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.197060s)
+[2023.04.16-11.11.30:444][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-11.11.30:445][744]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-11.11.30:445][744]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2023.04.16-11.11.30:493][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.16-11.11.30:497][744]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.16-11.11.30:497][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-11.11.30:497][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-11.11.30:497][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-11.11.30:497][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-11.11.30:497][744]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-11.11.30:497][744]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-11.11.30:497][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-11.11.30:497][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-11.11.30:498][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-11.11.30:498][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-11.11.30:498][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-11.11.30:502][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-11.11.30:705][744]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-11.11.30:705][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-11.11.30:705][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-11.11.30:705][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-11.11.30:705][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.16-11.11.30:706][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.16-11.11.30:708][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.16-11.11.30:708][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.16-11.11.30:708][744]LogInit: FAudioDevice initialized.
+[2023.04.16-11.11.30:708][744]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_1'.
+[2023.04.16-11.11.30:712][744]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-11.11.30:736][744]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.04.16-12.11.30
+[2023.04.16-11.11.30:736][744]LogWorld: Bringing up level for play took: 0.025334
+[2023.04.16-11.11.30:739][744]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.04.16-11.11.30:742][744]PIE: Server logged in
+[2023.04.16-11.11.30:743][744]PIE: Play in editor total start time 0.497 seconds.
+[2023.04.16-11.11.39:888][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.11.39:888][414]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.11.39:889][414]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-11.11.39:898][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.11.39:908][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-11.11.39:915][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.11.39:959][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.11.39:975][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.16-11.11.39:978][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.16-11.11.40:016][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.16-11.11.40:091][415]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.04.16-11.13.03:620][258]BlueprintLog: New page: Compile moving_leaves
+[2023.04.16-11.13.03:781][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.16-11.13.07:046][420]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-11.13.07:061][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-11.13.07:061][420]PIE: New page: PIE session: Level_1 (16 Apr 2023, 13:13:07)
+[2023.04.16-11.13.07:061][420]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.13.07:366][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.305493s)
+[2023.04.16-11.13.07:366][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.305571s)
+[2023.04.16-11.13.07:367][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-11.13.07:368][420]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-11.13.07:368][420]LogPlayLevel: PIE: World Init took: (0.002060s)
+[2023.04.16-11.13.07:430][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.16-11.13.07:436][420]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.16-11.13.07:436][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-11.13.07:436][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-11.13.07:436][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-11.13.07:436][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-11.13.07:436][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-11.13.07:436][420]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-11.13.07:436][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-11.13.07:436][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-11.13.07:437][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-11.13.07:437][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-11.13.07:437][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-11.13.07:441][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-11.13.07:732][420]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-11.13.07:732][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-11.13.07:733][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-11.13.07:733][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-11.13.07:733][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.04.16-11.13.07:733][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.04.16-11.13.07:736][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.04.16-11.13.07:736][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.04.16-11.13.07:736][420]LogInit: FAudioDevice initialized.
+[2023.04.16-11.13.07:736][420]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_1'.
+[2023.04.16-11.13.07:742][420]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-11.13.07:778][420]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.04.16-12.13.07
+[2023.04.16-11.13.07:779][420]LogWorld: Bringing up level for play took: 0.036795
+[2023.04.16-11.13.07:782][420]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.04.16-11.13.07:787][420]PIE: Server logged in
+[2023.04.16-11.13.07:788][420]PIE: Play in editor total start time 0.727 seconds.
+[2023.04.16-11.13.26:247][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.13.26:247][175]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.13.26:248][175]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-11.13.26:260][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.13.26:279][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-11.13.26:288][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.13.26:364][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-11.13.26:364][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.16-11.13.26:367][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.16-11.13.26:394][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.13.26:411][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.16-11.13.26:455][176]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.04.16-11.13.27:971][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-11.13.27:983][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-11.13.27:983][246]PIE: New page: PIE session: Level_1 (16 Apr 2023, 13:13:27)
+[2023.04.16-11.13.27:983][246]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.13.28:228][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.244435s)
+[2023.04.16-11.13.28:228][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.244495s)
+[2023.04.16-11.13.28:228][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-11.13.28:228][246]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-11.13.28:229][246]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2023.04.16-11.13.28:281][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.16-11.13.28:284][246]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.16-11.13.28:284][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-11.13.28:284][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-11.13.28:284][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-11.13.28:284][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-11.13.28:284][246]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-11.13.28:284][246]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-11.13.28:284][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-11.13.28:285][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-11.13.28:285][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-11.13.28:285][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-11.13.28:285][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-11.13.28:288][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-11.13.28:533][246]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-11.13.28:533][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-11.13.28:533][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-11.13.28:533][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-11.13.28:534][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.04.16-11.13.28:534][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.04.16-11.13.28:538][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.04.16-11.13.28:538][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.04.16-11.13.28:538][246]LogInit: FAudioDevice initialized.
+[2023.04.16-11.13.28:538][246]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_1'.
+[2023.04.16-11.13.28:544][246]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-11.13.28:575][246]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.04.16-12.13.28
+[2023.04.16-11.13.28:575][246]LogWorld: Bringing up level for play took: 0.032276
+[2023.04.16-11.13.28:580][246]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.04.16-11.13.28:583][246]PIE: Server logged in
+[2023.04.16-11.13.28:584][246]PIE: Play in editor total start time 0.6 seconds.
+[2023.04.16-11.13.37:697][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.13.37:698][794]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.13.37:698][794]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-11.13.37:710][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.13.37:720][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-11.13.37:727][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.13.37:805][794]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-11.13.37:808][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.16-11.13.37:812][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.16-11.13.37:837][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.13.37:848][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.04.16-11.13.37:916][795]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.04.16-11.14.43:216][402]BlueprintLog: New page: Compile moving_leaves
+[2023.04.16-11.14.43:290][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.16-11.14.46:509][698]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-11.14.46:522][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-11.14.46:522][698]PIE: New page: PIE session: Level_1 (16 Apr 2023, 13:14:46)
+[2023.04.16-11.14.46:522][698]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.14.46:723][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.200149s)
+[2023.04.16-11.14.46:723][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.200209s)
+[2023.04.16-11.14.46:723][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-11.14.46:724][698]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-11.14.46:724][698]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2023.04.16-11.14.46:774][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.16-11.14.46:777][698]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.16-11.14.46:777][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-11.14.46:777][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-11.14.46:777][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-11.14.46:777][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-11.14.46:777][698]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-11.14.46:777][698]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-11.14.46:777][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-11.14.46:777][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-11.14.46:777][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-11.14.46:777][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-11.14.46:777][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-11.14.46:780][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-11.14.46:975][698]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-11.14.46:976][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-11.14.46:976][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-11.14.46:976][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-11.14.46:976][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.04.16-11.14.46:976][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.04.16-11.14.46:979][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.04.16-11.14.46:979][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.04.16-11.14.46:979][698]LogInit: FAudioDevice initialized.
+[2023.04.16-11.14.46:979][698]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_1'.
+[2023.04.16-11.14.46:983][698]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-11.14.47:009][698]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.04.16-12.14.47
+[2023.04.16-11.14.47:009][698]LogWorld: Bringing up level for play took: 0.026405
+[2023.04.16-11.14.47:012][698]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.04.16-11.14.47:014][698]PIE: Server logged in
+[2023.04.16-11.14.47:015][698]PIE: Play in editor total start time 0.493 seconds.
+[2023.04.16-11.14.59:438][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.14.59:438][533]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-11.14.59:438][533]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-11.14.59:448][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.14.59:459][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-11.14.59:465][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-11.14.59:529][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-11.14.59:530][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.16-11.14.59:535][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.16-11.14.59:559][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-11.14.59:572][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.16-11.14.59:611][534]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.04.16-11.15.38:346][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.04.16-11.15.39:392][219]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto3
+[2023.04.16-11.15.39:394][219]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_1_Auto3D9EE62BC46E3FBD73DB7EFBCFC6F0550.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/Levels/Level_1_Auto3.umap'
+[2023.04.16-11.15.39:409][219]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 1.098
+[2023.04.16-11.15.39:409][219]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.098
+[2023.04.16-11.15.39:410][219]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/moving_leaves] ([2] browsable assets)...
+[2023.04.16-11.15.39:451][219]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/moving_leaves.moving_leaves]
+[2023.04.16-11.15.39:451][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/moving_leaves]
+[2023.04.16-11.15.39:460][219]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/moving_leaves_Auto3
+[2023.04.16-11.15.39:460][219]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves_Auto3EA4795E2455A6995EB158DAB837D3428.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/moving_leaves_Auto3.uasset'
+[2023.04.16-11.15.39:461][219]LogFileHelpers: Auto-saving content packages took 0.052
