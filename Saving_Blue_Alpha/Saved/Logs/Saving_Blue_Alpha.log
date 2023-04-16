@@ -9596,3 +9596,558 @@ Recommended: 516.25
 [2023.04.16-16.07.03:803][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.61 sec (total: 11.6 sec)
 [2023.04.16-16.07.03:811][192]AssetCheck: New page: Asset Save: Level_1
 [2023.04.16-16.07.03:811][192]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_1.Level_1
+[2023.04.16-16.16.23:335][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-16.16.23:396][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.16-16.16.23:431][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.16-16.16.24:113][538]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2023.04.16-16.16.24:114][538]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_1F92B8B6A4C05849A19C36485B8A64C37.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/Levels/Level_1.umap'
+[2023.04.16-16.16.24:131][538]LogFileHelpers: Saving map 'Level_1' took 0.735
+[2023.04.16-16.16.24:140][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 805 ms (total: 12.4 sec)
+[2023.04.16-16.16.24:147][538]AssetCheck: New page: Asset Save: Level_1
+[2023.04.16-16.16.24:147][538]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_1.Level_1
+[2023.04.16-16.17.22:202][972]Cmd: TRANSACTION UNDO
+[2023.04.16-16.17.22:202][972]LogEditorTransaction: Undo Move Elements
+[2023.04.16-16.17.23:523][ 29]Cmd: TRANSACTION UNDO
+[2023.04.16-16.17.23:523][ 29]LogEditorTransaction: Undo Rename Component Variable
+[2023.04.16-16.19.02:226][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-16.19.02:309][729]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves16
+[2023.04.16-16.19.02:309][729]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves16B1D6F51541FDA26ABA164B83B425C436.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves16.uasset'
+[2023.04.16-16.19.02:319][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 12.5 sec)
+[2023.04.16-16.19.02:326][729]AssetCheck: New page: Asset Save: moving_leaves16
+[2023.04.16-16.19.02:326][729]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves16.moving_leaves16
+[2023.04.16-16.21.04:827][959]Cmd: TRANSACTION UNDO
+[2023.04.16-16.21.04:827][959]LogEditorTransaction: Undo Move Elements
+[2023.04.16-16.21.05:580][980]Cmd: TRANSACTION UNDO
+[2023.04.16-16.21.05:580][980]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2023.04.16-16.21.14:127][484]Cmd: TRANSACTION UNDO
+[2023.04.16-16.21.14:127][484]LogEditorTransaction: Undo Move Elements
+[2023.04.16-16.21.15:497][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-16.21.15:550][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.16-16.21.15:585][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.16-16.21.16:318][543]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2023.04.16-16.21.16:319][543]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_197EC5CD04E40CE2EB5CF39B327D90235.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/Levels/Level_1.umap'
+[2023.04.16-16.21.16:338][543]LogFileHelpers: Saving map 'Level_1' took 0.789
+[2023.04.16-16.21.16:346][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 848 ms (total: 13.3 sec)
+[2023.04.16-16.21.16:357][543]AssetCheck: New page: Asset Save: Level_1
+[2023.04.16-16.21.16:357][543]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_1.Level_1
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: ================================================
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: Total job queries 383, among them cache hits 14 (3.66%)
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: Tracking 369 distinct input hashes that result in 197 distinct outputs (53.39%)
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: RAM used: 2.61 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.16%
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.16-16.23.15:578][423]LogShaderCompilers: Display: ================================================
+[2023.04.16-16.23.42:634][  9]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-16.23.42:634][  9]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-16.23.42:634][  9]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-16.24.22:543][  9]LogSlate: Window 'Select Path' being destroyed
+[2023.04.16-16.24.24:329][  9]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.04.16-16.24.24:383][  9]LogActorComponent: UnregisterComponent: (/Game/ThirdPerson/Blueprints/water_plane_Blueprint.Default__water_plane_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2023.04.16-16.24.24:421][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.16-16.24.24:446][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/water_plane_Blueprint.water_plane_Blueprint
+[2023.04.16-16.24.24:448][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-16.24.24:896][  9]LogViewport: Scene viewport resized to 1053x685, mode Windowed.
+[2023.04.16-16.24.24:919][ 10]LogAutomationController: Ignoring very large delta of 42.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.16-16.25.00:634][143]LogDerivedDataCache: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.112 and deleted 0 files with total size 0 MiB. Scanned 5463 files in 5400 folders with total size 1311 MiB.
+[2023.04.16-16.33.19:956][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.16-16.33.20:676][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto7
+[2023.04.16-16.33.20:676][842]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_1_Auto7B73607F6446F46819D9D84A342F0BD13.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/Levels/Level_1_Auto7.umap'
+[2023.04.16-16.33.20:686][842]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.767
+[2023.04.16-16.33.20:686][842]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.767
+[2023.04.16-16.38.43:219][194]BlueprintLog: New page: Compile water_plane_Blueprint
+[2023.04.16-16.38.43:284][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.04.16-16.43.21:107][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.16-16.43.21:734][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto8
+[2023.04.16-16.43.21:735][763]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_1_Auto874EB90544EDF03014981CFA950D95F84.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/Levels/Level_1_Auto8.umap'
+[2023.04.16-16.43.21:744][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.674
+[2023.04.16-16.43.21:744][763]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.674
+[2023.04.16-16.53.59:732][703]Cmd: DELETE
+[2023.04.16-16.53.59:732][703]Cmd: ACTOR DELETE
+[2023.04.16-16.53.59:732][703]LogEditorActor: Cannot delete component BoxComponent /Game/Levels/Level_1.Level_1:PersistentLevel.water_plane_Blueprint_C_0.water_collision: Can't delete non-instanced components or the scene root.
+[2023.04.16-16.55.42:844][522]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-16.55.42:845][522]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-16.55.42:845][522]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-16.55.45:367][522]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.16-16.55.45:392][523]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.16-16.56.07:124][770]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.04.16-16.56.07:137][770]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.16-16.56.07:145][770]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.16-16.56.07:151][771]LogAutomationController: Ignoring very large delta of 4.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.16-16.56.07:165][771]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.04.16-16.56.14:717][124]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> health_bar
+[2023.04.16-16.56.14:748][124]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.16-16.56.25:762][701]LogContentBrowser: Attempting asset rename: health_bar -> BP_health_bar
+[2023.04.16-16.56.25:814][701]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_health_bar.SKEL_BP_health_bar_C' ref from Metadata '/Game/ThirdPerson/Blueprints/health_bar.PackageMetaData'
+[2023.04.16-16.56.25:814][701]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar_C' ref from Metadata '/Game/ThirdPerson/Blueprints/health_bar.PackageMetaData'
+[2023.04.16-16.56.25:814][701]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/health_bar.PackageMetaData'
+[2023.04.16-16.56.25:814][701]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/health_bar.PackageMetaData'
+[2023.04.16-16.56.25:814][701]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/health_bar.PackageMetaData'
+[2023.04.16-16.56.25:851][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-16.56.25:923][701]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_health_bar
+[2023.04.16-16.56.25:924][701]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_health_bar6A327AF94E7CD7E4B3AEFD819FE853BC.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/BP_health_bar.uasset'
+[2023.04.16-16.56.25:933][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 13.4 sec)
+[2023.04.16-16.56.26:011][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.16-16.56.26:060][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.16-16.56.26:108][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.16-16.56.26:115][701]AssetCheck: New page: Asset Save: BP_health_bar
+[2023.04.16-16.56.26:116][701]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar
+[2023.04.16-16.56.38:905][419]LogContentBrowser: Attempting asset rename: paris_animation -> BP_paris_animation
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation_C' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation:EventGraph.K2Node_CallFunction_2' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation:AnimGraph.AnimGraphNode_StateMachine_0.locomotion.AnimStateNode_0.idle (state).AnimGraphNode_StateResult_0' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation:AnimGraph.AnimGraphNode_StateMachine_0.locomotion.AnimStateEntryNode_0' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.SKEL_BP_paris_animation_C' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.SKEL_BP_paris_animation_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.SKEL_BP_paris_animation_C:BlueprintBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.SKEL_BP_paris_animation_C:AnimGraph' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation_C:BlueprintBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:927][419]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation_C:AnimGraph' ref from Metadata '/Game/ThirdPerson/Blueprints/paris_animation.PackageMetaData'
+[2023.04.16-16.56.38:954][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-16.56.39:038][419]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.04.16-16.56.39:040][419]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_ThirdPersonCharacter38CEA4974501DB7D21E14B9E1F666492.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.04.16-16.56.39:079][419]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_paris_animation
+[2023.04.16-16.56.39:079][419]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_paris_animation9CEF1A924E6545802388019CE0D64424.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/BP_paris_animation.uasset'
+[2023.04.16-16.56.39:088][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 13.5 sec)
+[2023.04.16-16.56.39:140][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.16-16.56.39:180][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.16-16.56.39:217][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.16-16.56.39:223][419]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.16-16.56.39:224][419]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation
+[2023.04.16-16.56.39:224][419]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.16-16.56.50:153][ 48]LogContentBrowser: Attempting asset rename: water_plane_Blueprint -> Bwater_plane_Blueprint
+[2023.04.16-16.56.50:177][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.Bwater_plane_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:177][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.SKEL_Bwater_plane_Blueprint_C' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:177][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.Bwater_plane_Blueprint_C' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:177][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.Bwater_plane_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:178][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.Bwater_plane_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:178][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.Bwater_plane_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:178][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.SKEL_Bwater_plane_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:178][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.SKEL_Bwater_plane_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:178][ 48]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.Bwater_plane_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/water_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.50:210][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-16.56.50:331][ 48]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint
+[2023.04.16-16.56.50:331][ 48]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Bwater_plane_Blueprint68F7FA7B4A551160F9B0549D7BFD9587.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/Bwater_plane_Blueprint.uasset'
+[2023.04.16-16.56.50:334][ 48]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/water_plane_Blueprint
+[2023.04.16-16.56.50:334][ 48]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/water_plane_BlueprintD77D11DC4011D8AE13263F926D84A731.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/water_plane_Blueprint.uasset'
+[2023.04.16-16.56.50:346][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 13.7 sec)
+[2023.04.16-16.56.50:353][ 48]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.16-16.56.50:353][ 48]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/water_plane_Blueprint.water_plane_Blueprint
+[2023.04.16-16.56.50:353][ 48]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/water_plane_Blueprint.Default__water_plane_Blueprint_C
+[2023.04.16-16.56.50:353][ 48]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/water_plane_Blueprint.water_plane_Blueprint_C
+[2023.04.16-16.56.50:353][ 48]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.Bwater_plane_Blueprint
+[2023.04.16-16.56.58:486][519]LogContentBrowser: Attempting asset rename: Bwater_plane_Blueprint -> BP_water_plane_Blueprint
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.BP_water_plane_Blueprint_C' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.BP_water_plane_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.SKEL_BP_water_plane_Blueprint_C' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.SKEL_BP_water_plane_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.SKEL_BP_water_plane_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.BP_water_plane_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.BP_water_plane_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.BP_water_plane_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:505][519]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.BP_water_plane_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/Bwater_plane_Blueprint.PackageMetaData'
+[2023.04.16-16.56.58:530][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-16.56.58:595][519]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/water_plane_Blueprint
+[2023.04.16-16.56.58:595][519]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/water_plane_Blueprint3581733F4848B0EAC75EB7BA7CF9F243.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/water_plane_Blueprint.uasset'
+[2023.04.16-16.56.58:619][519]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint
+[2023.04.16-16.56.58:619][519]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_water_plane_BlueprintD8AE8F2444981112FACCDEA59E200BA4.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/BP_water_plane_Blueprint.uasset'
+[2023.04.16-16.56.58:628][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 13.8 sec)
+[2023.04.16-16.56.58:680][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.16-16.56.58:717][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.16-16.56.58:756][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.04.16-16.56.58:764][519]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.16-16.56.58:764][519]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/water_plane_Blueprint.water_plane_Blueprint
+[2023.04.16-16.56.58:764][519]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/water_plane_Blueprint.Default__water_plane_Blueprint_C
+[2023.04.16-16.56.58:764][519]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/water_plane_Blueprint.water_plane_Blueprint_C
+[2023.04.16-16.56.58:764][519]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_water_plane_Blueprint.BP_water_plane_Blueprint
+[2023.04.16-16.57.35:253][966]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar
+[2023.04.16-16.57.35:254][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-16.57.35:262][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-16.57.35:268][966]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.04.16-16.57.35:701][966]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.16-16.57.35:701][966]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.16-16.57.35:832][966]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.04.16-16.57.35:834][966]LogSlate: Took 0.000652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.16-16.59.55:990][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.16-16.59.55:993][728]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.110
+[2023.04.16-16.59.55:994][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves] ([2] browsable assets)...
+[2023.04.16-16.59.56:028][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves.moving_leaves]
+[2023.04.16-16.59.56:028][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves]
+[2023.04.16-16.59.56:037][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves_Auto9
+[2023.04.16-16.59.56:037][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves_Auto9F8BA998B4CBFA2D9E64EC5960765030E.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves_Auto9.uasset'
+[2023.04.16-16.59.56:040][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves1] ([2] browsable assets)...
+[2023.04.16-16.59.56:061][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves1.moving_leaves1]
+[2023.04.16-16.59.56:061][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves1]
+[2023.04.16-16.59.56:067][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves1_Auto9
+[2023.04.16-16.59.56:067][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves1_Auto9134CF9D9406D4707E6B64FB82AB3519F.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves1_Auto9.uasset'
+[2023.04.16-16.59.56:069][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves3] ([2] browsable assets)...
+[2023.04.16-16.59.56:090][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves3.moving_leaves3]
+[2023.04.16-16.59.56:092][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves3]
+[2023.04.16-16.59.56:097][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves3_Auto9
+[2023.04.16-16.59.56:097][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves3_Auto97262F5A848EF4F85E93BB7B6F2487744.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves3_Auto9.uasset'
+[2023.04.16-16.59.56:098][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves4] ([2] browsable assets)...
+[2023.04.16-16.59.56:120][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves4.moving_leaves4]
+[2023.04.16-16.59.56:120][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves4]
+[2023.04.16-16.59.56:125][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves4_Auto9
+[2023.04.16-16.59.56:125][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves4_Auto9C511CC58421BD5A6F65867A9CA1C8592.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves4_Auto9.uasset'
+[2023.04.16-16.59.56:127][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves5] ([2] browsable assets)...
+[2023.04.16-16.59.56:150][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves5.moving_leaves5]
+[2023.04.16-16.59.56:150][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves5]
+[2023.04.16-16.59.56:155][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves5_Auto9
+[2023.04.16-16.59.56:155][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves5_Auto97E1F555D4ECB857B18F3B789435F3C1B.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves5_Auto9.uasset'
+[2023.04.16-16.59.56:156][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves6] ([2] browsable assets)...
+[2023.04.16-16.59.56:181][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves6.moving_leaves6]
+[2023.04.16-16.59.56:181][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves6]
+[2023.04.16-16.59.56:187][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves6_Auto9
+[2023.04.16-16.59.56:187][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves6_Auto9662A9FD0484E7539FE389780E953F2A8.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves6_Auto9.uasset'
+[2023.04.16-16.59.56:188][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves7] ([2] browsable assets)...
+[2023.04.16-16.59.56:211][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves7.moving_leaves7]
+[2023.04.16-16.59.56:211][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves7]
+[2023.04.16-16.59.56:217][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves7_Auto9
+[2023.04.16-16.59.56:217][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves7_Auto90BCE78AF46206FB2F4FD66BB3DAC2779.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves7_Auto9.uasset'
+[2023.04.16-16.59.56:219][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves8] ([2] browsable assets)...
+[2023.04.16-16.59.56:238][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves8.moving_leaves8]
+[2023.04.16-16.59.56:238][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves8]
+[2023.04.16-16.59.56:244][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves8_Auto9
+[2023.04.16-16.59.56:245][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves8_Auto9D60C72CC4CAEB654C0C99FA2C5E2FD31.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves8_Auto9.uasset'
+[2023.04.16-16.59.56:246][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves9] ([2] browsable assets)...
+[2023.04.16-16.59.56:268][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves9.moving_leaves9]
+[2023.04.16-16.59.56:268][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves9]
+[2023.04.16-16.59.56:272][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves9_Auto9
+[2023.04.16-16.59.56:272][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves9_Auto9C21EC2A74142DB5A8E7F808F6C841BE6.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves9_Auto9.uasset'
+[2023.04.16-16.59.56:274][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves10] ([2] browsable assets)...
+[2023.04.16-16.59.56:294][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves10.moving_leaves10]
+[2023.04.16-16.59.56:296][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves10]
+[2023.04.16-16.59.56:302][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves10_Auto9
+[2023.04.16-16.59.56:302][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves10_Auto9ED03DA72463659DEE484338C95A2FFB0.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves10_Auto9.uasset'
+[2023.04.16-16.59.56:303][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves14] ([2] browsable assets)...
+[2023.04.16-16.59.56:325][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves14.moving_leaves14]
+[2023.04.16-16.59.56:325][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves14]
+[2023.04.16-16.59.56:331][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves14_Auto9
+[2023.04.16-16.59.56:331][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/moving_leaves14_Auto970DAA7F14851B7787E80BDA012250754.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/lotus_leaf_blueprints/moving_leaves14_Auto9.uasset'
+[2023.04.16-16.59.56:332][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_health_bar] ([2] browsable assets)...
+[2023.04.16-16.59.56:337][728]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar]
+[2023.04.16-16.59.56:337][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_health_bar]
+[2023.04.16-16.59.56:339][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_health_bar_Auto9
+[2023.04.16-16.59.56:339][728]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_health_bar_Auto94C00A2AF48CACEF1F7CB6CAD83DF747B.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_health_bar_Auto9.uasset'
+[2023.04.16-16.59.56:340][728]LogFileHelpers: Auto-saving content packages took 0.347
+[2023.04.16-17.01.56:262][119]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-17.02.07:747][801]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-17.02.56:569][894]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-17.03.03:378][295]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-17.03.17:296][124]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-17.04.23:184][271]LogEditorTransaction: Undo Edit Percent
+[2023.04.16-17.04.23:763][278]LogEditorTransaction: Undo Edit Specified Color
+[2023.04.16-17.04.24:256][293]LogEditorTransaction: Undo Edit Specified Color
+[2023.04.16-17.04.24:803][297]LogEditorTransaction: Undo Edit Fill Color and Opacity
+[2023.04.16-17.04.25:323][298]LogEditorTransaction: Undo Edit Percent
+[2023.04.16-17.04.26:780][327]LogShaderCompilers: Display: ================================================
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Total job queries 395, among them cache hits 18 (4.56%)
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Tracking 370 distinct input hashes that result in 198 distinct outputs (53.51%)
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: RAM used: 2.61 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.16%
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Jobs assigned 8, completed 1 (12.50%)
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Time job spent in pending queue: average 3.32 s, longest 4.43 s
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Job execution time: average 3.00 s, max 3.00 s
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Job life time (pending + execution): average 7.41 s, max 7.41
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.41 s
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Average processing rate: 0.13 jobs/sec
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Total thread time: 1.48 s
+[2023.04.16-17.04.26:781][327]LogShaderCompilers: Display: Total thread preprocess time: 0.17 s
+[2023.04.16-17.04.26:782][327]LogShaderCompilers: Display: Percentage time preprocessing: 11.68%
+[2023.04.16-17.04.26:782][327]LogShaderCompilers: Display: Effective parallelization: 0.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.16-17.04.26:782][327]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.04.16-17.04.26:782][327]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 1.48 sec, max 1.48 sec, min 1.48 sec)
+[2023.04.16-17.04.26:782][327]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.04.16-17.04.26:782][327]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 1.48 sec, max 1.48 sec, min 1.48 sec)
+[2023.04.16-17.04.26:782][327]LogShaderCompilers: Display: ================================================
+[2023.04.16-17.05.33:426][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-17.06.56:867][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-17.06.56:910][733]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_health_bar
+[2023.04.16-17.06.56:912][733]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_health_bar16FD211744321B3AB614908B07738967.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/BP_health_bar.uasset'
+[2023.04.16-17.06.56:919][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 13.8 sec)
+[2023.04.16-17.06.56:931][733]AssetCheck: New page: Asset Save: BP_health_bar
+[2023.04.16-17.06.56:931][733]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar
+[2023.04.16-17.09.13:237][696]BlueprintLog: New page: Compile BP_health_bar
+[2023.04.16-17.09.13:334][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.04.16-17.09.15:048][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-17.09.15:105][791]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_health_bar
+[2023.04.16-17.09.15:107][791]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_health_barA41CD29841D463D6D0ED43BC51E56261.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/BP_health_bar.uasset'
+[2023.04.16-17.09.15:113][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 13.9 sec)
+[2023.04.16-17.09.15:118][791]AssetCheck: New page: Asset Save: BP_health_bar
+[2023.04.16-17.09.15:118][791]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar
+[2023.04.16-17.10.26:960][204]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPerson/Blueprints/BP_paris_animation.BP_paris_animation
+[2023.04.16-17.10.26:972][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-17.10.27:004][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-17.10.27:100][204]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.16-17.10.27:687][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: ================================================
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Total job queries 407, among them cache hits 18 (4.42%)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Tracking 389 distinct input hashes that result in 207 distinct outputs (53.21%)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: RAM used: 2.71 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Shaders Compiled: 12
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100.00%)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Average time worker was idle: 12.32 s
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Time job spent in pending queue: average 2.24 s, longest 4.43 s
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Job execution time: average 3.36 s, max 7.85 s
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Job life time (pending + execution): average 5.60 s, max 7.95
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.29 s
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Average processing rate: 1.29 jobs/sec
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Total thread time: 22.56 s
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Total thread preprocess time: 2.14 s
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Percentage time preprocessing: 9.47%
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Effective parallelization: 2.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 2.21 sec, max 2.79 sec, min 1.10 sec)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 2.15 sec, max 2.74 sec, min 1.17 sec)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.47 sec, max 1.94 sec, min 1.00 sec)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 1.10 sec, max 1.48 sec, min 0.73 sec)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.10% of total time (compiled    4 times, average 2.21 sec, max 2.79 sec, min 1.10 sec)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.10% of total time (compiled    4 times, average 2.15 sec, max 2.74 sec, min 1.17 sec)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.03% of total time (compiled    2 times, average 1.47 sec, max 1.94 sec, min 1.00 sec)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.77% of total time (compiled    2 times, average 1.10 sec, max 1.48 sec, min 0.73 sec)
+[2023.04.16-17.10.27:690][204]LogShaderCompilers: Display: ================================================
+[2023.04.16-17.10.28:143][204]LogViewport: Scene viewport resized to 342x409, mode Windowed.
+[2023.04.16-17.10.28:192][204]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.04.16-17.10.30:641][346]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-17.10.30:641][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.10.30:672][346]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-17.10.30:672][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.10.30:740][346]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-17.10.30:740][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.10.36:443][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.16-17.10.36:444][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-17.11.29:134][596]LogSlate: Took 0.000549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.16-17.11.54:483][  8]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.16-17.11.54:680][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.04.16-17.11.56:380][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.04.16-17.11.56:388][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.108
+[2023.04.16-17.11.56:389][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.04.16-17.11.56:411][ 88]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.04.16-17.11.56:411][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.04.16-17.11.56:436][ 88]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0
+[2023.04.16-17.11.56:436][ 88]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_ThirdPersonCharacter_Auto0450147F245B211217DF6FF83913473D4.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0.uasset'
+[2023.04.16-17.11.56:438][ 88]LogFileHelpers: Auto-saving content packages took 0.050
+[2023.04.16-17.15.41:189][342]BlueprintLog: New page: Compile BP_health_bar
+[2023.04.16-17.15.41:275][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.04.16-17.15.42:931][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-17.15.43:010][434]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_health_bar
+[2023.04.16-17.15.43:011][434]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_health_bar7E8C3FCF4A4F5CD7DF4C4C961C7BD72F.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/BP_health_bar.uasset'
+[2023.04.16-17.15.43:019][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 14.0 sec)
+[2023.04.16-17.15.43:027][434]AssetCheck: New page: Asset Save: BP_health_bar
+[2023.04.16-17.15.43:027][434]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar
+[2023.04.16-17.17.16:786][447]BlueprintLog: New page: Compile BP_health_bar
+[2023.04.16-17.17.16:864][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.16-17.20.42:346][653]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-17.20.42:346][653]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-17.20.42:346][653]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.16-17.21.28:387][817]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.16-17.21.28:513][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.04.16-17.21.29:782][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-17.21.29:892][879]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.04.16-17.21.29:892][879]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_ThirdPersonCharacter86FF2F994CB609A9CD7BE5953C428741.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.04.16-17.21.29:908][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 14.1 sec)
+[2023.04.16-17.21.29:918][879]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.04.16-17.21.29:918][879]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.16-17.21.38:355][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-17.21.38:371][244]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.16-17.21.38:372][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves before play...
+[2023.04.16-17.21.38:418][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves1 before play...
+[2023.04.16-17.21.38:465][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves3 before play...
+[2023.04.16-17.21.38:522][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves4 before play...
+[2023.04.16-17.21.38:566][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves5 before play...
+[2023.04.16-17.21.38:610][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves6 before play...
+[2023.04.16-17.21.38:657][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves7 before play...
+[2023.04.16-17.21.38:700][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves8 before play...
+[2023.04.16-17.21.38:744][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves9 before play...
+[2023.04.16-17.21.38:795][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves10 before play...
+[2023.04.16-17.21.38:845][244]LogPlayLevel: [PlayLevel] Compiling moving_leaves14 before play...
+[2023.04.16-17.21.38:890][244]LogPlayLevel: [PlayLevel] Compiling BP_water_plane_Blueprint before play...
+[2023.04.16-17.21.39:086][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.04.16-17.21.39:090][244]LogPlayLevel: PlayLevel: Blueprint regeneration took 718 ms (12 blueprints)
+[2023.04.16-17.21.39:090][244]PIE: New page: PIE session: Level_1 (16 Apr 2023, 19:21:39)
+[2023.04.16-17.21.39:091][244]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-17.21.39:413][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.322996s)
+[2023.04.16-17.21.39:413][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.323065s)
+[2023.04.16-17.21.39:413][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-17.21.39:415][244]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-17.21.39:415][244]LogPlayLevel: PIE: World Init took: (0.002141s)
+[2023.04.16-17.21.39:489][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.04.16-17.21.39:491][244]LogAudio: Display: Creating Audio Device:                 Id: 142, Scope: Unique, Realtime: True
+[2023.04.16-17.21.39:491][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-17.21.39:491][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-17.21.39:491][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-17.21.39:491][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-17.21.39:491][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-17.21.39:491][244]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-17.21.39:491][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-17.21.39:491][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-17.21.39:492][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-17.21.39:492][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-17.21.39:492][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-17.21.39:496][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-17.21.39:692][244]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-17.21.39:696][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-17.21.39:696][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-17.21.39:696][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-17.21.39:702][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=142
+[2023.04.16-17.21.39:702][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=142
+[2023.04.16-17.21.39:705][244]LogInit: FAudioDevice initialized.
+[2023.04.16-17.21.39:705][244]LogAudio: Display: Audio Device (ID: 142) registered with world 'Level_1'.
+[2023.04.16-17.21.39:705][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=142
+[2023.04.16-17.21.39:705][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=142
+[2023.04.16-17.21.39:711][244]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-17.21.39:784][244]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.04.16-18.21.39
+[2023.04.16-17.21.39:784][244]LogWorld: Bringing up level for play took: 0.073387
+[2023.04.16-17.21.39:788][244]LogOnline: OSS: Created online subsystem instance for: :Context_198
+[2023.04.16-17.21.39:796][244]PIE: Server logged in
+[2023.04.16-17.21.39:797][244]PIE: Play in editor total start time 1.427 seconds.
+[2023.04.16-17.21.42:416][245]LogAutomationController: Ignoring very large delta of 4.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.16-17.21.52:616][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-17.21.52:616][811]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-17.21.52:618][811]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-17.21.52:628][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.21.52:637][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-17.21.52:643][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.21.52:719][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-17.21.52:720][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=142
+[2023.04.16-17.21.52:725][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=142
+[2023.04.16-17.21.52:747][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-17.21.52:760][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.16-17.21.52:808][812]LogPlayLevel: Display: Destroying online subsystem :Context_198
+[2023.04.16-17.23.03:560][978]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.16-17.23.03:560][978]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.16-17.24.07:338][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.16-17.24.08:309][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto1
+[2023.04.16-17.24.08:310][542]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Level_1_Auto19E043DA24B5DF158B168B89436A70938.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/Levels/Level_1_Auto1.umap'
+[2023.04.16-17.24.08:326][542]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 1.059
+[2023.04.16-17.24.08:326][542]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.059
+[2023.04.16-17.24.08:327][542]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_health_bar] ([2] browsable assets)...
+[2023.04.16-17.24.08:338][542]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_health_bar.BP_health_bar]
+[2023.04.16-17.24.08:338][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_health_bar]
+[2023.04.16-17.24.08:347][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_health_bar_Auto1
+[2023.04.16-17.24.08:347][542]LogSavePackage: Moving '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/BP_health_bar_Auto1DE36B6704F9320E1B204038AD053E495.tmp' to '../../../../../../GitProjects/Saving_Blue_Alpha/Saving_Blue_Alpha/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_health_bar_Auto1.uasset'
+[2023.04.16-17.24.08:348][542]LogFileHelpers: Auto-saving content packages took 0.022
+[2023.04.16-17.24.18:610][960]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.16-17.24.18:717][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.16-17.24.20:095][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-17.24.20:104][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-17.24.20:104][ 30]PIE: New page: PIE session: Level_1 (16 Apr 2023, 19:24:20)
+[2023.04.16-17.24.20:104][ 30]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-17.24.20:281][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176693s)
+[2023.04.16-17.24.20:281][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.176737s)
+[2023.04.16-17.24.20:281][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-17.24.20:282][ 30]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-17.24.20:282][ 30]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2023.04.16-17.24.20:341][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.16-17.24.20:344][ 30]LogAudio: Display: Creating Audio Device:                 Id: 143, Scope: Unique, Realtime: True
+[2023.04.16-17.24.20:344][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-17.24.20:344][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-17.24.20:344][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-17.24.20:344][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-17.24.20:344][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-17.24.20:344][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-17.24.20:344][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-17.24.20:344][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-17.24.20:345][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-17.24.20:345][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-17.24.20:345][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-17.24.20:347][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-17.24.20:505][ 30]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-17.24.20:505][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-17.24.20:505][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-17.24.20:505][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-17.24.20:506][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=143
+[2023.04.16-17.24.20:506][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=143
+[2023.04.16-17.24.20:508][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=143
+[2023.04.16-17.24.20:508][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=143
+[2023.04.16-17.24.20:508][ 30]LogInit: FAudioDevice initialized.
+[2023.04.16-17.24.20:508][ 30]LogAudio: Display: Audio Device (ID: 143) registered with world 'Level_1'.
+[2023.04.16-17.24.20:513][ 30]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-17.24.20:538][ 30]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.04.16-18.24.20
+[2023.04.16-17.24.20:539][ 30]LogWorld: Bringing up level for play took: 0.026001
+[2023.04.16-17.24.20:541][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_199
+[2023.04.16-17.24.20:544][ 30]PIE: Server logged in
+[2023.04.16-17.24.20:545][ 30]PIE: Play in editor total start time 0.441 seconds.
+[2023.04.16-17.24.35:954][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-17.24.35:954][638]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-17.24.35:955][638]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-17.24.35:963][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.24.35:971][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-17.24.35:977][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.24.36:046][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-17.24.36:054][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=143
+[2023.04.16-17.24.36:056][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=143
+[2023.04.16-17.24.36:087][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.16-17.24.36:129][639]LogPlayLevel: Display: Destroying online subsystem :Context_199
+[2023.04.16-17.25.01:611][849]LogDerivedDataCache: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.089 and deleted 0 files with total size 0 MiB. Scanned 5477 files in 5414 folders with total size 1311 MiB.
+[2023.04.16-17.25.30:435][  5]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.16-17.25.30:435][  5]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.16-17.25.52:725][268]LogEditorTransaction: Undo Move Anchor
+[2023.04.16-17.26.11:777][268]BlueprintLog: New page: Compile BP_health_bar
+[2023.04.16-17.26.11:870][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.16-17.26.14:590][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.16-17.26.14:600][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-17.26.14:600][409]PIE: New page: PIE session: Level_1 (16 Apr 2023, 19:26:14)
+[2023.04.16-17.26.14:600][409]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-17.26.14:758][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157885s)
+[2023.04.16-17.26.14:758][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.157928s)
+[2023.04.16-17.26.14:758][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-17.26.14:758][409]LogAIModule: Creating AISystem for world Level_1
+[2023.04.16-17.26.14:759][409]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2023.04.16-17.26.14:813][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.04.16-17.26.14:816][409]LogAudio: Display: Creating Audio Device:                 Id: 144, Scope: Unique, Realtime: True
+[2023.04.16-17.26.14:817][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-17.26.14:817][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-17.26.14:817][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-17.26.14:817][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-17.26.14:817][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-17.26.14:817][409]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-17.26.14:817][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-17.26.14:817][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-17.26.14:817][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.16-17.26.14:817][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.16-17.26.14:817][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-17.26.14:820][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-17.26.14:981][409]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.16-17.26.14:981][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-17.26.14:981][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-17.26.14:981][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-17.26.14:982][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=144
+[2023.04.16-17.26.14:982][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=144
+[2023.04.16-17.26.14:984][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=144
+[2023.04.16-17.26.14:984][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=144
+[2023.04.16-17.26.14:984][409]LogInit: FAudioDevice initialized.
+[2023.04.16-17.26.14:984][409]LogAudio: Display: Audio Device (ID: 144) registered with world 'Level_1'.
+[2023.04.16-17.26.14:987][409]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.16-17.26.15:013][409]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.04.16-18.26.15
+[2023.04.16-17.26.15:013][409]LogWorld: Bringing up level for play took: 0.024838
+[2023.04.16-17.26.15:015][409]LogOnline: OSS: Created online subsystem instance for: :Context_200
+[2023.04.16-17.26.15:019][409]PIE: Server logged in
+[2023.04.16-17.26.15:020][409]PIE: Play in editor total start time 0.42 seconds.
+[2023.04.16-17.26.18:894][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-17.26.18:894][602]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2023.04.16-17.26.18:894][602]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-17.26.18:904][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.26.18:911][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-17.26.18:917][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-17.26.18:984][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-17.26.18:984][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=144
+[2023.04.16-17.26.18:986][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=144
+[2023.04.16-17.26.19:007][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-17.26.19:016][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.16-17.26.19:058][603]LogPlayLevel: Display: Destroying online subsystem :Context_200
+[2023.04.16-17.30.02:628][882]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.04.16-17.30.02:746][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
